@@ -1,7 +1,0 @@
-# VuePress 快速上手
-
-### 步骤二：运行 npm install
-
-### 步骤三：运行 npm run dev
-
-### 步骤三：测试
